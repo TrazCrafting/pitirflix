@@ -20,4 +20,4 @@ fakat kodlar doğru şekilde build edilmiştir
 
 Kullanılan dil/diller:
 
-Flutter ile yazılmış ve build ile html,css,js kodlarına aktarılmıştır
+Flutter ile yazılmış ve build ile html,css,js kodlarına dönüştürülmüştür
